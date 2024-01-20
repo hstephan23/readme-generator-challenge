@@ -1,35 +1,37 @@
-# README Project
+# README Generator
   
   MIT
 
   ### Description
 
-  Developing a README file from the terminal
+  This is a project where we auto generate a README file, through the terminal using Node.JS. It allows for time to be saved and a more efficient development of README files that are consistent and high quality.
 
   ### Table of Contents
-  *Installation
-  *Usage
-  *Contributing
-  *Test
-  *Questions
+  * [Installation](##-Installation)
+  * [Usage](##-Usage)
+  * [Contributing](##-Contributing)
+  * [Test](##-Test)
+  * [Questions](##-Questions)
 
   ## Installation
   To install run the following commands:
   ```
-  npm install --save inquirer
+  npm install inquirer@6.5.0
   ```
 
   ## Usage
-  For the generation of README files
+  For the generation of README files from stored information, including the creation of a license. 
 
   MIT
 
   ## Contributing
-  JS
+  Javascript and Node.js
 
   ## Test
 
-  npm test run
+  ```
+  npm test run 
+  ```
 
   ## Questions
 
