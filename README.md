@@ -1,7 +1,9 @@
 # README Generator
   
   ## License 
-  MIT https://img.shields.io/badge/MIT-blue?logo=unlicense
+  MIT 
+  ![badge](https://img.shields.io/badge/MIT-blue?logo=unlicense)
+
   This is an MIT license
 
   ### Description
@@ -25,6 +27,7 @@
   For the generation of README files from stored information, including the creation of a license with an icon.
 
   MIT
+
   https://opensource.org/license/mit/
 
   ## Contributing
@@ -33,7 +36,7 @@
   ## Test
 
   ```
-  npm test run 
+  npm test run
   ```
 
   ## Questions
