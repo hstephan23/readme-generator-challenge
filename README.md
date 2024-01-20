@@ -1,6 +1,8 @@
 # README Generator
   
-  MIT
+  ## License 
+  MIT https://img.shields.io/badge/MIT-blue?logo=unlicense
+  This is an MIT license
 
   ### Description
 
@@ -20,9 +22,10 @@
   ```
 
   ## Usage
-  For the generation of README files from stored information, including the creation of a license. 
+  For the generation of README files from stored information, including the creation of a license with an icon.
 
   MIT
+  https://opensource.org/license/mit/
 
   ## Contributing
   Javascript and Node.js
@@ -35,5 +38,5 @@
 
   ## Questions
 
-  harrison@stephanclan.com
-  hstephan23
+  * harrison@stephanclan.com
+  * https://github.com/hstephan23
